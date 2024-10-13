@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan3/components/konten.dart';
+import 'package:pertemuan_4/components/konten.dart';
 
 void main() {
   runApp(const MyApp());
